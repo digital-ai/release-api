@@ -1,4 +1,4 @@
-# API Defintion files for Digital.ai Release
+# API Definition files for Digital.ai Release
 
 * [release-api.yaml](rest-api/release-api.yaml) - OpenAPI definition of the Public Rest API
 * [synthetic.xsd](synthetic-type-definitions/synthetic.xsd) - XML Schema Definition for `synthetic.xml`
